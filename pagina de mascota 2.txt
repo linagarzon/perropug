@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+ <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>PAGINA WEB</title>
+
+ <link rel="icon" href="icono.ico">
+</head>
+ <style>
+        h1 {
+            text-align: center;
+        }
+    
+    </style>
+<body background="fondo 1.jpeg" alt= "mascota">
+
+
+ <font size="6"><i><h1>PAGINA MASCOTA</h1></i></font>
+
+  <div id="arriba" style="position:absolute; top:0; left:0;"></div>
+
+ <p style="position:absolute; top:10px; left:210px;">
+    <font size="4"> <font face="arial black"> <a href="#abajo">Ir abajo</a> </font>
+  </p>
+
+ <font size="5"><p style="color:red;" align="center">Presentado por Cristian pinzón</p></font>
+
+ <div align="left"><img src="IMAGEN 2.jpeg" width="300" height="320" alt= "mascota 2">
+ <font face= "algerian"> <font size="5"><p style="color:DarkGoldenrod;" align="left">Hola, mi nombre es Ñato,soy raza <a href="https://purina.cl/purina/perros/caracteristicas-y-curiosidades-de-los-pug">pug</a><br>y tengo 11 años. Soy el mejor<br>compañero de Cristian</p></font></div> </font>
+
+ <div align="right"><img src="IMAGEN 1.jpeg" width="300" height="320" alt= "mascota 2">
+ <font face="arial"><font size="5"><p style="color:red;" align="right">Sacando la lengua porque Cristian<br> no me ha dado mi <a href="https://purina.cl/purina/productos/snacks/salud-oral-medianos-y-grandes">comida</a></p></font></div></font>
+
+ <br>
+ <div align="left"><img src="IMAGEN 3.jpeg" width="300" height="320" alt= "mascota 2">
+ <font face="arial black"> <font size="5"><p style="color:green;" align="left">Acostado porque estoy esperando<br>a que Cristian me de mi <a href="https://www.puppis.com.co/peluche-para-perro-jirafa-con-mordelon-la/p#11020">juguete</a></p></font></div></font>
+
+ <div align="right"><img src="IMAGEN 4.jpeg" width="300" height="320" alt= "mascota 2">
+ <font face="algerian"> <font size="5"><p style="color:Maroon;" align="right">
+ <a href="file:///E:/11-3%20web/index.html" target="_blank" style="color:inherit; text-decoration:none;">
+        Foto con mi dueño Cristian  </a> </p>
+    </div>
+  </font>
+
+ <br>
+ <div align="left"><img src="IMAGEN 5.jpeg" width="300" height="320" alt= "mascota 2">
+ <font face="arial"> <font size="5"><p style="color:purple;"align="left">Cristian me baña porque el me <a href="https://ambientlounge.cl/blogs/noticias/los-mejores-cuidados-para-perros-pug?srsltid=AfmBOop40vM7aihkEA5fiskEUjHAy85IEWY_OqA5W_qJuTMtKzRISM3d">cuida</a></p></font></div></font>
+
+ <div align="right"><img src="IMAGEN 6.jpeg" width="300" height="320" alt= "mascota 2">
+ <font face="arial black"> <font size="5"><p style="color:brown;"align="right">Foto con otro perro, porque Ñato murio</p></font></div></font>
+
+<center>
+ <video width="600" height="600" controls>
+  <source src="video 1.mp4" type="video/mp4">
+  <source src="video 1.ogg" type="video/ogg">
+ </video>
+ </center>
+
+ <a id="abajo" style="position:absolute; top:2800px; left:0;"></a>
+
+ <p style="position:absolute; top:2800px; right:210px;">
+    <font size="4"> <font face="arial black"> <a href="#arriba">Ir arriba</a> </font>
+  </p>
+
+</body>
+</html>
